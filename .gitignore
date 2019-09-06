@@ -1,0 +1,4 @@
+# ignore the executables and test files, if any
+*.exe
+*.out
+*.txt
